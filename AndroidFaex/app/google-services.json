@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "464508317796",
+    "firebase_url": "https://loginscholl.firebaseio.com",
+    "project_id": "loginscholl",
+    "storage_bucket": "loginscholl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464508317796:android:05339a0c82c9fa3b",
+        "android_client_info": {
+          "package_name": "com.edu.scp.schoolpocket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464508317796-7066362s2pkaicv38idtgb4te3ojbuk5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdhp7-3znWOstcpZzfBq4sBb321LPAAm0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
